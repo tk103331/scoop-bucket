@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/tk103331/oni3/releases/download/v0.3.1/oni3_0.3.1_windows_amd64.zip",
-            "hash": "b568ad52bfe74f4ae43060e2429a8a29d1ce8200568f180a77d893cc26a93c26"
+            "hash": "a93bc173c6b17fa455acc7f99bbd9b4a9052794c1f2d62a53df5ebb760b765ac"
         },
         "arm64": {
             "url": "https://github.com/tk103331/oni3/releases/download/v0.3.1/oni3_0.3.1_windows_arm64.zip",
-            "hash": "e60cd186018f62c7d8229ccbf792c72382097c1d620dc9ce4a8224e0080cf9a3"
+            "hash": "6716eab9547c813430b66d31f3acdb4721e40c940c998ce4217b282f65312561"
         }
     },
     "bin": "oni3.exe",
