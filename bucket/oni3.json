@@ -1,16 +1,16 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Oni3 - AI Agent TUI with tools, MCP and ACP support, built on CloudWeGo Eino",
     "homepage": "https://github.com/tk103331/oni3",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tk103331/oni3/releases/download/v0.7.0/oni3_0.7.0_windows_amd64.zip",
-            "hash": "37cf4f30175298ecaa1666db7d4a4cbdf9d4afc7668d041f03a1db7743c2e7f8"
+            "url": "https://github.com/tk103331/oni3/releases/download/v0.7.1/oni3_0.7.1_windows_amd64.zip",
+            "hash": "13132a70207ef9273b291dc5e2e980e5cdb4e80f7ec31d7de33b3cd4d705ab4a"
         },
         "arm64": {
-            "url": "https://github.com/tk103331/oni3/releases/download/v0.7.0/oni3_0.7.0_windows_arm64.zip",
-            "hash": "e01bce4972503d000fc93f756d9adabf4b8495c9fbf0a6229465a57aa29b5979"
+            "url": "https://github.com/tk103331/oni3/releases/download/v0.7.1/oni3_0.7.1_windows_arm64.zip",
+            "hash": "87c75668f5483502ba2229f8df5a8e17f17330c0648e5dc2f4c664151c524665"
         }
     },
     "bin": "oni3.exe",
